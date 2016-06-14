@@ -1,0 +1,82 @@
+{
+  "_args": [
+    [
+      "angular2-recaptcha",
+      "/Applications/XAMPP/xamppfiles/htdocs/angular2-laravel5"
+    ]
+  ],
+  "_from": "angular2-recaptcha@latest",
+  "_id": "angular2-recaptcha@0.1.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/angular2-recaptcha",
+  "_nodeVersion": "5.11.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/angular2-recaptcha-0.1.0.tgz_1464758436112_0.8970123326871544"
+  },
+  "_npmUser": {
+    "email": "alexeyfedorov101@gmail.com",
+    "name": "xmaestro"
+  },
+  "_npmVersion": "3.8.6",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "angular2-recaptcha",
+    "raw": "angular2-recaptcha",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/angular2-recaptcha/-/angular2-recaptcha-0.1.0.tgz",
+  "_shasum": "d6daa453fc2f7c2412e0b97e3c0ebce0a216f9ff",
+  "_shrinkwrap": null,
+  "_spec": "angular2-recaptcha",
+  "_where": "/Applications/XAMPP/xamppfiles/htdocs/angular2-laravel5",
+  "author": {
+    "name": "xmaestro"
+  },
+  "bugs": {
+    "url": "https://github.com/xmaestro/angular2-recaptcha/issues"
+  },
+  "dependencies": {},
+  "description": "Angular 2 : Typescript component for Google reCaptcha",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "d6daa453fc2f7c2412e0b97e3c0ebce0a216f9ff",
+    "tarball": "https://registry.npmjs.org/angular2-recaptcha/-/angular2-recaptcha-0.1.0.tgz"
+  },
+  "gitHead": "ade1924d70afca387ce4c8cd5cb8c93b223ef112",
+  "homepage": "https://github.com/xmaestro/angular2-recaptcha#readme",
+  "keywords": [
+    "angular2",
+    "recaptcha"
+  ],
+  "license": "ISC",
+  "main": "angular2-recaptcha.js",
+  "maintainers": [
+    {
+      "email": "alexeyfedorov101@gmail.com",
+      "name": "xmaestro"
+    }
+  ],
+  "name": "angular2-recaptcha",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "@angular/core": "2.0.0-rc.1"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xmaestro/angular2-recaptcha.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.0"
+}

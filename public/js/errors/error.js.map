@@ -1,0 +1,1 @@
+{"version":3,"sources":["errors/error.ts"],"names":[],"mappings":";;;;;;;YAAA;gBACI,eAAmB,KAAa,EAAS,OAAe;oBAArC,UAAK,GAAL,KAAK,CAAQ;oBAAS,YAAO,GAAP,OAAO,CAAQ;gBAAG,CAAC;gBAChE,YAAC;YAAD,CAFA,AAEC,IAAA;YAFD,yBAEC,CAAA","file":"errors/error.js","sourcesContent":["export class Error {\n    constructor(public title: string, public message: string) {}\n}"],"sourceRoot":"/source/"}
